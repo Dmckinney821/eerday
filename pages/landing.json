@@ -1,0 +1,25 @@
+{
+    "gallery": {
+        "img_1": "https://lh3.googleusercontent.com/6zeQ5R0PtDnGGRin73vxqENxMF5zuESTFEXH98AeiHn_Et4HJo6E_nzWuwgnRPOLhI0rqI7BGQXvsyzIDRqzBFrgfA",
+        "img_2": "https://lh3.googleusercontent.com/AFOZsHkV4Wz1qYKGoNF18gBeMF4q6I78HydCjmBk1fd8OLGXDvh88ZmwjvTuvgxVDiaDg0-HkM5NV9WaQ9hxP3F2hw8",
+        "img_3": "https://lh3.googleusercontent.com/L3Xkm77jLXy_FfsO_3C5H9Mcu3Z8QwbTdTWDggw6xgS5Um5Xtg9h56GOBdeJ-8Dp1zvM3h1EyOgVgy45CSUcAfSm",
+        "img_4": "https://lh3.googleusercontent.com/IHd860xF3eXnK2coqtTnsMD0ciXK-BMQ5rLgK320uslofVP-bnFnXix6P35ChHKWhXWGSn798CGY4ZRXsMAaU00V2g",
+        "img_5": "https://lh3.googleusercontent.com/zvs4i1VhDFY6t6dIuOKFn-g_SBWySTAp0v4Ye5Ube6R8vJlJABUMfkvAIR3oIsd1n_8h6c_YN-HzPgm85UAUv9IpaA",
+        "img_6": "https://lh3.googleusercontent.com/J6N5tZLwrnYiQpxlr5CP01symJcenAEY1LL0bhMTrkfqjpKmPWo9KQWUv4f9J3WWxedgCgxdvVqr3OQLKf3LiRqC43I"
+    },
+    "hero": {
+        "greeting": "Welcome to the Show",
+        "introduction": "Mi Scusi",
+        "img_profile": "https://lh3.googleusercontent.com/n4F5NRvhUyWtgcBrrlY4xhEfbJJzvnJtAeTjdqrj3xmALjZiHaRAThjYbZwPf9E84CJNDerWTluGYgF4Xx7GgWYn",
+        "img_background": "https://lh3.googleusercontent.com/ki3JxmiHi8eVQx49Zz2rANCbLHtlIITn6Nr4eJvSvOVtyrABCe3vsWvaxVLMFhApcKAwAUs61mtchA0sc8tv2PrRjA"
+    },
+    "image_profile": "https://i1.wp.com/metro.co.uk/wp-content/uploads/2015/11/peter-griffin-family-guy-cartoon-hd-wallpaper-1920x1200-33630.png?quality=90&strip=all&zoom=1&resize=644%2C402&ssl=1",
+    "greeting": "Hey Welcome to the show",
+    "introduction": "Developing everyday",
+    "languages": [
+        {"name": "javascript" , "years": 5},
+        {"name": "react" , "years": 3},
+        {"name": "node" , "years": 4},
+        {"name": "express" , "years": 3}
+    ]
+}
