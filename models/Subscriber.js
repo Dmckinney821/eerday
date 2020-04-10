@@ -11,7 +11,7 @@
 // https://github.com/scottwrobinson/camo
 const Document = require('vertex-camo').Document
 const props = {
-    firstName: {type:String, default:''},
+    name: {type:String, default:''},
     email: {type:String, default:'', display:true},
     subject: {type:String, default:''},
     message: {type:String, default:''},

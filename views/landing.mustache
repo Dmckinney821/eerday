@@ -128,22 +128,26 @@
                 <div class="row mt-5">
                     <form class="col-md-4 col-xl-4 mx-auto input-border">
                         <div class="form-group">
-                            <input type="text" class="form-control form-control-lg" placeholder="Name">
+                            <input id='contact-form-name' type="text" class="form-control form-control-lg" placeholder="Name">
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control form-control-lg" placeholder="Email">
+                            <input id='contact-form-email' type="text" class="form-control form-control-lg" placeholder="Email">
                         </div>
                         <div class="form-group">
-                            <input type="password" class="form-control form-control-lg" placeholder="Password">
+                            <input id='contact-form-message' type="text" class="form-control form-control-lg" placeholder="Message">
                         </div>
-                        <button class="btn btn-block btn-lg btn-info">Sign up</button>
+                        <button id='btn-contact-submit' class="btn btn-block btn-lg btn-info">Send</button>
                     </form>
                 </div>
             </div>
         </section>
+
         {{>footer}}
     </div>
 
     {{>scripts}}
+    <script src='/public/js/contact.js'>
+    </script>
+   
 </body>
 </html>
