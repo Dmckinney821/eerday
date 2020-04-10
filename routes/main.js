@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
     const projectCtr = new ProjectController()
     projectCtr.get()
     .then(projects => {
-        console.log('Projects: ' + JSON.stringify(projects))
+        data['projects'] = projects
         res.render('landing', data)
     })
     .catch(err => {
