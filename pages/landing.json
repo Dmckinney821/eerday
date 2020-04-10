@@ -5,17 +5,20 @@
         "img_profile": "https://lh3.googleusercontent.com/n4F5NRvhUyWtgcBrrlY4xhEfbJJzvnJtAeTjdqrj3xmALjZiHaRAThjYbZwPf9E84CJNDerWTluGYgF4Xx7GgWYn",
         "img_background": "https://lh3.googleusercontent.com/ki3JxmiHi8eVQx49Zz2rANCbLHtlIITn6Nr4eJvSvOVtyrABCe3vsWvaxVLMFhApcKAwAUs61mtchA0sc8tv2PrRjA"
     },
+    "service": {
+        "img_1": "https://lh3.googleusercontent.com/gZw2gibFTxpbeh3Ib9NDIZomVup18pX27yBJb7PVvLT-ickH9EsbFjcs0VhQQYJ_LT9mUUnJjRarz_CaZDxoRsP7",
+        "img_2": "https://lh3.googleusercontent.com/t4qKJLlVGyrQDwvUH6R9fDE9_J3gYgwL7qEoogrCuFLGn2Kkv0XEsj4-_bPXiYJP0JMZ6cuvHueX2M79vEJTjFFfASY",
+        "img_3": "https://lh3.googleusercontent.com/uOsmQSUxTHHpkXB2B-MJk5FJK16xSEmmr_8qcbjXpkfg7udbyjYugMTe9Thq7fa3iMQe94TmcxKGKt20Jxk3m3b0ow",
+        "img_4": "https://lh3.googleusercontent.com/wV5ezHwg-P-WEeG1pesrNpNBSDATqnTxr4ZTah_wld3ZXW-DbVmAXeAfq5qlyH6OvuKZttRF0nn2K0aaV8SvcI967Q",
+        "img_5": "https://lh3.googleusercontent.com/G23HGLZX7yNkzKWDe8oXRjIGgfznxgg-jKNTmtD2L4MMRPrSuI-77FcNJTK3xEyT2AbOfumIysFx-U3A78TxwbJQyw",
+        "img_6": "https://lh3.googleusercontent.com/MJwNNAhQaXFPTjlofNHh8wcL7Aftu4h0yDP5FTrGC5WZsb9iL9vEIn14Tlgh4K_1y3JIuGh13A1zVw7vdnJW23pLtZ0"
+    },
     "projects": {
         "header": "My Project",
         "subheader": "Take a look "
     },
-    "image_profile": "https://i1.wp.com/metro.co.uk/wp-content/uploads/2015/11/peter-griffin-family-guy-cartoon-hd-wallpaper-1920x1200-33630.png?quality=90&strip=all&zoom=1&resize=644%2C402&ssl=1",
-    "greeting": "Hey Welcome to the show",
-    "introduction": "Developing everyday",
-    "languages": [
-        {"name": "javascript" , "years": 5},
-        {"name": "react" , "years": 3},
-        {"name": "node" , "years": 4},
-        {"name": "express" , "years": 3}
-    ]
+    "contact": {
+        "header": "lets duet",
+        "subheader": "fill it out so we can do it"
+    }
 }
